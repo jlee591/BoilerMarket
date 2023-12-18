@@ -1,0 +1,6 @@
+engineering,textbooks,ENG 133,2,50.00,seller1@gmail.com
+psychology,textbooks,PSY 120,1,25.00,seller1@gmail.com
+sociology,textbooks,SOC 100,2,10.00,seller1@gmail.com
+calculator,tools,TI-84,1,100.00,seller1@gmail.com
+pencil,tools,#2 pencils,10,1.00,seller1@gmail.com
+highlighter,tools,pastel colors,5,3.00,seller1@gmail.com

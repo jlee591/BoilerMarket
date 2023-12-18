@@ -1,0 +1,6 @@
+seller1@gmail.com,password,seller
+customer1@gmail.com,pass,customer
+test,test,customer
+test2,test2,seller
+Joebro123@gmail.com,jiho123,customer
+lee@gmail.com,hihi,customer

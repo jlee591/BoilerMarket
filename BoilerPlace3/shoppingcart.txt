@@ -1,0 +1,2 @@
+customer2@gmail.com,mini fridge,appliances,new fridge,2,200.00,seller1@gmail.com
+customer5@gmail.com,cups,appliances,plastic cups,5,5.00,seller1@gmail.com

@@ -1,0 +1,7 @@
+producta,store1,description1,1,1.00
+productb,store1,description1,1,1.00
+productc,store1,description1,1,1.00
+productd,store1,description1,1,1.00
+producte,store1,description1,1,1.00
+productf,store1,description1,1,1.00
+productg,store1,description1,1,1.00

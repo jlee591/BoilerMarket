@@ -1,0 +1,3 @@
+chair,furnitureStore,wooden chair,2,15.00
+desk,furnitureStore,marble desk,1,50.00
+couch,furnitureStore,4-person couch,1,60.00
